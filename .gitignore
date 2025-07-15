@@ -52,3 +52,4 @@ qdrant_data/
 .hive-mind/
 memory/
 .swarm/
+claude-flow.*
